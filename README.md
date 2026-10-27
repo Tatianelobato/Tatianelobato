@@ -6,8 +6,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=52zOHGDsDC2I&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)"/>
   <img src="https://img.icons8.com/?size=100&id=Y643hFCbn1z8&format=png&color=000000)"/>
